@@ -1,0 +1,17 @@
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn-guess{
+    margin: 0px 0px 10px 0px;
+}
+
+#btn-refresh{
+    display: none;
+}
+
+#user-input{
+    margin: 10px 0px 10px 0px;
+}
+
